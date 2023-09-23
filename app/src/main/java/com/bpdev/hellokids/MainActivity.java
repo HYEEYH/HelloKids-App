@@ -14,7 +14,7 @@ import com.bpdev.hellokids.config.Config;
 
 public class MainActivity extends AppCompatActivity {
 
-    // 최상단 헤더의 버튼
+    // 최상단 헤더의 버튼.
     TextView btnRegister;
     TextView btnLogin;
     ImageButton btnTranslate;
